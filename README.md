@@ -57,6 +57,10 @@ element.backgroundClipPolyfill({
 
 You can see this in action on my CodePen: [-webkit-background-clip: text Polyfill](http://codepen.io/TimPietrusky/pen/cnvBk). 
 
+##TODO
+
+Use Rafael JS for a older browser fallback
+
 --------
 
 Handcrafted 2013 by [Tim Pietrusky](http://timpietrusky.com) in Germany.
